@@ -1,4 +1,4 @@
-# Experiment--10-Programmable-logic-devices-
+# Ex-10-Programmable-logic-devices-
  
 ### AIM: To implement PROM using verilog and validate its output 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
